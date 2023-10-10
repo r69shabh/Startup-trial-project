@@ -1,0 +1,977 @@
+.startup {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.startup .div {
+  background-color: #ffffff;
+  height: 4400px;
+  position: relative;
+  width: 1920px;
+}
+
+.startup .overlap {
+  height: 1178px;
+  left: 0;
+  position: absolute;
+  top: 978px;
+  width: 1920px;
+}
+
+.startup .BG {
+  background-color: #fff5ed;
+  height: 1178px;
+  left: 0;
+  opacity: 0.5;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.startup .service {
+  height: 390px;
+  left: 363px;
+  position: absolute;
+  top: 140px;
+  width: 1197px;
+}
+
+.startup .smart-jackpots-that {
+  color: #0f2136;
+  font-family: "B612", Helvetica;
+  font-size: 34px;
+  font-weight: 700;
+  left: 319px;
+  letter-spacing: -0.5px;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.startup .text-wrapper {
+  color: #0f2136;
+  font-family: "DM Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 334px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 70px;
+  width: 527px;
+}
+
+.startup .service-2 {
+  height: 130px;
+  left: 0;
+  position: absolute;
+  top: 260px;
+  width: 1193px;
+}
+
+.startup .element {
+  height: 130px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 387px;
+}
+
+.startup .fast-performance {
+  color: #0f2136;
+  font-family: "DM Sans", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  left: 118px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 265px;
+}
+
+.startup .get-your-blood-tests {
+  color: #343d48;
+  font-family: "DM Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 118px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 40px;
+  width: 265px;
+}
+
+.startup .image {
+  height: 88px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 88px;
+}
+
+.startup .element-2 {
+  height: 130px;
+  left: 405px;
+  position: absolute;
+  top: 0;
+  width: 387px;
+}
+
+.startup .element-3 {
+  height: 130px;
+  left: 810px;
+  position: absolute;
+  top: 0;
+  width: 387px;
+}
+
+.startup .customer {
+  height: 412px;
+  left: 360px;
+  position: absolute;
+  top: 690px;
+  width: 1200px;
+}
+
+.startup .overlap-group {
+  height: 2px;
+  left: 0;
+  position: absolute;
+  top: 304px;
+  width: 1200px;
+}
+
+.startup .dividor {
+  background-color: #00060c;
+  border-radius: 5px;
+  height: 1px;
+  left: 0;
+  opacity: 0.1;
+  position: absolute;
+  top: 0;
+  width: 1200px;
+}
+
+.startup .active {
+  background-color: #a17856;
+  border-radius: 5px;
+  height: 2px;
+  left: 486px;
+  position: absolute;
+  top: 0;
+  width: 170px;
+}
+
+.startup .quote {
+  height: 214px;
+  left: 114px;
+  position: absolute;
+  top: 0;
+  width: 935px;
+}
+
+.startup .overlap-group-2 {
+  height: 159px;
+  left: 78px;
+  position: absolute;
+  top: 0;
+  width: 853px;
+}
+
+.startup .p {
+  color: #0f2136;
+  font-family: "B612", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 7px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 9px;
+  width: 846px;
+}
+
+.startup .img {
+  height: 42px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 50px;
+}
+
+.startup .core-features {
+  color: #7d8895;
+  font-family: "DM Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 86px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 174px;
+  white-space: nowrap;
+}
+
+.startup .dash {
+  background-color: #dbdee6;
+  height: 2px;
+  left: 0;
+  position: absolute;
+  top: 33px;
+  width: 70px;
+}
+
+.startup .logos {
+  height: 47px;
+  left: 80px;
+  position: absolute;
+  top: 365px;
+  width: 1040px;
+}
+
+.startup .image-2 {
+  height: 21px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 100px;
+}
+
+.startup .image-3 {
+  height: 44px;
+  left: 190px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 130px;
+}
+
+.startup .image-4 {
+  height: 47px;
+  left: 410px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 150px;
+}
+
+.startup .image-5 {
+  height: 46px;
+  left: 650px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 150px;
+}
+
+.startup .image-6 {
+  height: 37px;
+  left: 890px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 150px;
+}
+
+.startup .header {
+  background-color: transparent;
+  height: 953px;
+  left: 362px;
+  position: absolute;
+  top: 25px;
+  width: 1192px;
+}
+
+.startup .text {
+  height: 209px;
+  left: 189px;
+  position: absolute;
+  top: 145px;
+  width: 821px;
+}
+
+.startup .text-wrapper-2 {
+  color: #02063d;
+  font-family: "B612", Helvetica;
+  font-size: 48px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: -1px;
+  line-height: 75px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 817px;
+}
+
+.startup .lorem-ipsum-dolor {
+  color: #02073e;
+  font-family: "DM Sans", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 226px;
+  letter-spacing: 0;
+  line-height: 42px;
+  position: absolute;
+  text-align: center;
+  top: 167px;
+  white-space: nowrap;
+}
+
+.startup .overlap-2 {
+  height: 569px;
+  left: 28px;
+  position: absolute;
+  top: 384px;
+  width: 1084px;
+}
+
+.startup .button {
+  all: unset;
+  box-sizing: border-box;
+  height: 60px;
+  left: 480px;
+  position: absolute;
+  top: 0;
+  width: 182px;
+}
+
+.startup .lorem-ipsum-dolor-wrapper {
+  background-color: #0a8080;
+  border-radius: 5px;
+  height: 60px;
+  position: relative;
+  width: 180px;
+}
+
+.startup .lorem-ipsum-dolor-2 {
+  color: #ffffff;
+  font-family: "DM Sans", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  left: 39px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  white-space: nowrap;
+}
+
+.startup .illustration {
+  height: 563px;
+  left: 0;
+  position: absolute;
+  top: 6px;
+  width: 1084px;
+}
+
+.startup .menu {
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1198px;
+}
+
+.startup .home-adversite {
+  color: #0f2136;
+  font-family: "DM Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  height: 33px;
+  left: 1015px;
+  letter-spacing: 0;
+  line-height: 33px;
+  position: absolute;
+  text-align: right;
+  top: 4px;
+  white-space: nowrap;
+}
+
+.startup .overlap-3 {
+  height: 37px;
+  left: 1101px;
+  position: absolute;
+  top: 4px;
+  width: 91px;
+}
+
+.startup .home-adversite-2 {
+  color: #0a8080;
+  font-family: "DM Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  height: 33px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 33px;
+  position: absolute;
+  text-align: right;
+  top: 0;
+  white-space: nowrap;
+}
+
+.startup .path {
+  height: 6px;
+  left: 5px;
+  position: absolute;
+  top: 31px;
+  width: 82px;
+}
+
+.startup .home-adversite-3 {
+  color: #02073e;
+  font-family: "DM Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  height: 33px;
+  left: 232px;
+  letter-spacing: 0;
+  line-height: 33px;
+  position: absolute;
+  top: 4px;
+  white-space: nowrap;
+  width: 502px;
+}
+
+.startup .span {
+  color: #02073e;
+  font-family: "DM Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 33px;
+}
+
+.startup .text-wrapper-3 {
+  font-family: "Heebo", Helvetica;
+}
+
+.startup .text-wrapper-4 {
+  font-family: "Font Awesome 5 Free-Regular", Helvetica;
+}
+
+.startup .logo {
+  height: 37px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 197px;
+}
+
+.startup .petro {
+  color: #0f2136;
+  font-family: "SF Pro Display-Bold", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  height: 24px;
+  left: 41px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+  width: 154px;
+}
+
+.startup .s {
+  height: 37px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 27px;
+}
+
+.startup .ultimate-features {
+  height: 705px;
+  left: 323px;
+  position: absolute;
+  top: 2258px;
+  width: 1193px;
+}
+
+.startup .text-2 {
+  height: 141px;
+  left: 305px;
+  position: absolute;
+  top: 0;
+  width: 587px;
+}
+
+.startup .smart-jackpots-that-2 {
+  color: #0f2136;
+  font-family: "B612", Helvetica;
+  font-size: 34px;
+  font-weight: 700;
+  left: 17px;
+  letter-spacing: -0.5px;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.startup .flexcontainer {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  height: 71px;
+  left: 0;
+  position: absolute;
+  top: 70px;
+  width: 583px;
+}
+
+.startup .span-wrapper {
+  align-self: stretch;
+  color: #0f2136;
+  font-family: "DM Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: relative;
+  text-align: center;
+}
+
+.startup .text-wrapper-5 {
+  color: #0f2136;
+  font-family: "DM Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 35px;
+}
+
+.startup .features {
+  height: 454px;
+  left: 0;
+  position: absolute;
+  top: 251px;
+  width: 1193px;
+}
+
+.startup .features-2 {
+  height: 187px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 387px;
+}
+
+.startup .learn-more {
+  height: 42px;
+  left: 118px;
+  position: absolute;
+  top: 145px;
+  width: 104px;
+}
+
+.startup .lorem-ipsum-dolor-3 {
+  color: #3083ff;
+  font-family: "DM Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 42px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.startup .vector {
+  height: 10px;
+  left: 96px;
+  position: absolute;
+  top: 17px;
+  width: 6px;
+}
+
+.startup .features-3 {
+  height: 187px;
+  left: 405px;
+  position: absolute;
+  top: 0;
+  width: 387px;
+}
+
+.startup .features-4 {
+  height: 187px;
+  left: 810px;
+  position: absolute;
+  top: 0;
+  width: 387px;
+}
+
+.startup .features-5 {
+  height: 187px;
+  left: 0;
+  position: absolute;
+  top: 267px;
+  width: 387px;
+}
+
+.startup .features-6 {
+  height: 187px;
+  left: 405px;
+  position: absolute;
+  top: 267px;
+  width: 387px;
+}
+
+.startup .features-7 {
+  height: 187px;
+  left: 810px;
+  position: absolute;
+  top: 267px;
+  width: 387px;
+}
+
+.startup .subscirbe {
+  background-color: #f8f0ea;
+  background-image: url(https://c.animaapp.com/9PagK4Pm/img/img.png);
+  background-size: 100% 100%;
+  height: 757px;
+  left: 0;
+  position: absolute;
+  top: 3065px;
+  width: 1920px;
+}
+
+.startup .subscribe {
+  height: 458px;
+  left: 360px;
+  position: relative;
+  top: 140px;
+  width: 1204px;
+}
+
+.startup .overlap-4 {
+  background-color: #ffffff;
+  border-radius: 10px;
+  height: 458px;
+  position: relative;
+  width: 1200px;
+}
+
+.startup .get-your-blood-tests-2 {
+  color: #343d48;
+  font-family: "DM Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 45px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 213px;
+  width: 421px;
+}
+
+.startup .text-wrapper-6 {
+  color: #0f2136;
+  font-family: "B612", Helvetica;
+  font-size: 34px;
+  font-weight: 700;
+  height: 110px;
+  left: 45px;
+  letter-spacing: -0.5px;
+  line-height: 55px;
+  position: absolute;
+  top: 99px;
+  width: 478px;
+}
+
+.startup .field {
+  height: 199px;
+  left: 640px;
+  position: absolute;
+  top: 139px;
+  width: 515px;
+}
+
+.startup .checkbox {
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 140px;
+  width: 286px;
+}
+
+.startup .BG-2 {
+  background-color: #eff2f7;
+  border-radius: 4px;
+  height: 32px;
+  left: 0;
+  position: absolute;
+  top: 14px;
+  width: 16px;
+}
+
+.startup .get-your-blood-tests-3 {
+  color: #9095ad;
+  font-family: "DM Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: 30px;
+  opacity: 0.9;
+  position: absolute;
+  top: 0;
+  width: 260px;
+}
+
+.startup .feild {
+  height: 120px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 352px;
+}
+
+.startup .div-wrapper {
+  background-color: #eff2f7;
+  border-radius: 5px;
+  height: 120px;
+  position: relative;
+  width: 350px;
+}
+
+.startup .lorem-ipsum-dolor-4 {
+  color: #02073e;
+  font-family: "DM Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: 40px;
+  opacity: 0.4;
+  position: absolute;
+  top: 20px;
+  width: 147px;
+}
+
+.startup .overlap-wrapper {
+  height: 120px;
+  left: 365px;
+  position: absolute;
+  top: 0;
+  width: 152px;
+}
+
+.startup .overlap-5 {
+  background-color: #db4a87;
+  border-radius: 5px;
+  height: 120px;
+  position: relative;
+  width: 150px;
+}
+
+.startup .lorem-ipsum-dolor-5 {
+  color: #ffffff;
+  font-family: "DM Sans", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  left: 31px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  text-align: center;
+  top: 20px;
+  width: 89px;
+}
+
+.startup .footers {
+  height: 248px;
+  left: 262px;
+  position: absolute;
+  top: 3948px;
+  width: 1266px;
+}
+
+.startup .text-wrapper-7 {
+  color: #0f2136;
+  font-family: "DM Sans", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  left: 313px;
+  letter-spacing: -0.5px;
+  line-height: 30px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.startup .group {
+  height: 116px;
+  left: 0;
+  position: absolute;
+  top: 11px;
+  width: 218px;
+}
+
+.startup .terms-of-use-privacy {
+  color: #0f2136;
+  font-family: "DM Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 60px;
+}
+
+.startup .text-wrapper-8 {
+  color: #0f2136;
+  font-family: "DM Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  opacity: 0.6;
+  position: absolute;
+  top: 98px;
+}
+
+.startup .petro-2 {
+  color: #02073e;
+  font-family: "SF Pro Display-Bold", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  height: 24px;
+  left: 41px;
+  letter-spacing: 0;
+  line-height: 24px;
+  opacity: 0.8;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+  width: 154px;
+}
+
+.startup .support-center {
+  color: #02073e;
+  font-family: "DM Sans", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 313px;
+  letter-spacing: 0;
+  line-height: 37.5px;
+  opacity: 0.8;
+  position: absolute;
+  top: 58px;
+  width: 164px;
+}
+
+.startup .text-wrapper-9 {
+  color: #0f2136;
+  font-family: "DM Sans", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  left: 559px;
+  letter-spacing: -0.5px;
+  line-height: 30px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.startup .return-policy {
+  color: #02073e;
+  font-family: "DM Sans", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 559px;
+  letter-spacing: 0;
+  line-height: 37.5px;
+  opacity: 0.8;
+  position: absolute;
+  top: 58px;
+}
+
+.startup .text-wrapper-10 {
+  color: #0f2136;
+  font-family: "DM Sans", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  left: 802px;
+  letter-spacing: -0.5px;
+  line-height: 30px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.startup .press-inquiries {
+  color: #02073e;
+  font-family: "DM Sans", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 802px;
+  letter-spacing: 0;
+  line-height: 37.5px;
+  opacity: 0.8;
+  position: absolute;
+  top: 58px;
+  width: 161px;
+}
+
+.startup .group-2 {
+  height: 248px;
+  left: 1040px;
+  position: absolute;
+  top: 0;
+  width: 218px;
+}
+
+.startup .text-wrapper-11 {
+  color: #0f2136;
+  font-family: "DM Sans", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: -0.5px;
+  line-height: 30px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.startup .facebook-twitter {
+  color: #02073e;
+  font-family: "DM Sans", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 34px;
+  letter-spacing: 0;
+  line-height: 37.5px;
+  opacity: 0.8;
+  position: absolute;
+  top: 58px;
+  width: 180px;
+}
+
+.startup .social {
+  height: 132px;
+  left: 0;
+  position: absolute;
+  top: 69px;
+  width: 20px;
+}
